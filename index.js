@@ -14,7 +14,7 @@ connectDB();
 
 // Middleware
 const allowedOrigins = [
-  'https://glowing-croquembouche-57bd48.netlify.app',
+  'https://kwizeraexpensetrackerapplication.netlify.app',
   'http://localhost:5173', // For local development
 ];
 
